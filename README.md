@@ -1,4 +1,4 @@
-Harry Potter House Points iPhone app
+Harry Potter House Points (iPhone app)
 ========
 
 My high school launched a House Points System (based on Harry Potter) in 2013 to increase school spirit and encourage 
